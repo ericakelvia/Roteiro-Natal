@@ -7,7 +7,6 @@
 
 body, html {
     background-color: #9AC1D9;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
@@ -16,6 +15,7 @@ header {
 }
 
 header > h1 {
+    font-family: gresc;
     padding-top: 30px;
     font-size: 10vw;
     font-weight: normal;
