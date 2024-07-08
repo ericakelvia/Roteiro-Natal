@@ -97,7 +97,7 @@ footer {
     font-size: 1em;
 }
 
-footer a {
+footer > p > a {
     border: 2px solid #6093BF;
     padding: 2px;
     border-radius: 5px;
