@@ -92,9 +92,13 @@ div.video > iframe {
 
 footer {
     background-color: #ACE5F2;
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     font-size: 1em;
+}
+
+footer p {
+    line-height: 2em;
 }
 
 footer > p > a {
@@ -106,7 +110,6 @@ footer > p > a {
     background-color: #739ec4;
     font-weight: bold; 
     padding-left: 3px;
-    margin-top: 5px;
 }
 
 footer > p > a:hover {
